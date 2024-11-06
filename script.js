@@ -20,4 +20,7 @@ for (let i = 1; i <= 5; i++) {
         Mult15++;
     }
 }
-
+// impresion de la cantidad de valores en la consola (negativo, positivo ,multiplos de 15)
+console.log(`Valores negativos ingresados: ${Negativos}`);
+console.log(`Valores positivos ingresados: ${Positivos}`); 
+console.log(`Valores múltiplos de 15 ingresados: ${Mult15}`);
